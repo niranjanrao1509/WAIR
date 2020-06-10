@@ -1,2 +1,3 @@
-# WAIR-
-A niche repo to keep track of 2^n papers I find interesting
+# WAIR- What Am I Reading?
+
+A collection of papers I find interesting along with summarized notes.
